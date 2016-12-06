@@ -1,9 +1,9 @@
-0: never heard of it
-1: basically know what's used for
-2: learned it, but not really used it
-3: used it, but not very well
-4: used it a lot
-5: proficient
+- 0: never heard of it
+- 1: basically know what's used for
+- 2: learned it, but not really used it
+- 3: used it, but not very well
+- 4: used it a lot
+- 5: proficient
 
 # 基础技能
 
